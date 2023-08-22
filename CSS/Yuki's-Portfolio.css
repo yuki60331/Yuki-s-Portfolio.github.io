@@ -1,0 +1,251 @@
+/* -------------------------------------------------------------------------------------------------------------- */
+/* --------------------------------------------------- Navbar --------------------------------------------------- */
+/* 導覽列 */
+#navbar {
+    margin-top: 70px;
+}
+
+#navbar>div {
+    border-bottom: 1px solid white;
+
+}
+
+div a {
+    color: white;
+    text-decoration: none;
+    list-style-type: none;
+    justify-content: center;
+}
+
+div a:hover {
+    color: #CCFF00;
+
+}
+
+
+/* ---------------------------------------------------------------------------------------------------------------- */
+/* --------------------------------------------------- Homepage --------------------------------------------------- */
+
+/* 封面區域 */
+.cover {
+    position: relative;
+    width: 100%;
+    background-color: black;
+}
+
+.cover>img {
+    opacity: 50%;
+    right: 0px;
+}
+
+#cover_title {
+    bottom: 6vw;
+    left: 8vw;
+    font-size: 4vw;
+    line-height: 5vw;
+    z-index: 1;
+}
+
+/* -------------------------------------------------------- */
+/* 內容區 */
+#HM_project>img {
+    width: 100%;
+    height: 250px;
+}
+
+#HM_project>img:hover {
+    width: 100%;
+    background: #464646a3;
+}
+
+#HM_project:hover .content_hover1 {
+    display: block;
+}
+
+.content_hover1 {
+    display: none;
+}
+
+/* -------------------------------------------------------- */
+/* VIEW ALL PROJECT區域 */
+.VAP {
+    font-size: 3vh;
+}
+
+.VAP>a>svg {
+    width: 50px;
+}
+
+.PNP {
+    font-size: 3vh;
+}
+
+/* -------------------------------------------------------------------------------------------------------------- */
+/* --------------------------------------------------- Project -------------------------------------------------- */
+
+/* 標題 */
+#PJ_title {
+    border-bottom: 1px solid white;
+    border-top: 1px solid white;
+    font-size: 5vh;
+    padding: 8%;
+}
+
+/* -------------------------------------------------------- */
+/* 內容 */
+#PJ_content>img {
+    width: 100%;
+    height: 250px;
+}
+
+
+#PJ_content>img:hover {
+    width: 100%;
+    background: #464646a3;
+}
+
+#PJ_content:hover .content_hover1 {
+    display: block;
+}
+
+.content_hover1 {
+    display: none;
+}
+
+#NS_title {
+    height: 100px;
+    padding: 5% 0 4% 0%;
+    border-bottom: 1px solid white;
+
+}
+
+#NS_BCD img {
+    width: 100%;
+    height: 350px;
+}
+
+.swiper img {
+    width: 100%;
+    height: 320px;
+}
+
+.swiper2 img {
+    width: 100%;
+    height: 200px;
+}
+
+.mySwiper img {
+    width: 100%;
+    height: 70px;
+}
+
+.mySwiper3 img {
+    width: 100%;
+    height: 70px;
+}
+
+
+.mySwiper5 img {
+    width: 100%;
+    height: 70px;
+}
+
+.mySwiper7 img {
+    width: 100%;
+    height: 70px;
+}
+
+.mySwiper9 img {
+    width: 100%;
+    height: 70px;
+}
+
+.mySwiper10 img {
+    width: 100%;
+    height: 700px;
+}
+
+
+.NS_CD_CC {
+    width: 180px;
+}
+
+
+
+hr {
+    color: white;
+}
+
+
+/* -------------------------------------------------------------------------------------------------------------- */
+/* --------------------------------------------------- Footer --------------------------------------------------- */
+/* 頁尾 */
+
+#footer {
+    border-top: 1px solid white;
+}
+
+#footer_content {
+    border-bottom: 1px solid white;
+    padding: 5em 10% 5em 10%;
+}
+
+#footer_content #myBtn {
+    background: none;
+    border: none;
+    /* Remove borders */
+    outline: none;
+    /* Remove outline */
+    color: white;
+    /* Text color */
+    cursor: pointer;
+    /* Add a mouse pointer on hover */
+    font-size: 15px;
+    /* Increase font size */
+}
+
+#myBtn:hover {
+    color: #CCFF00;
+}
+
+.swiper-button-next {
+    color: black;
+}
+
+.swiper-button-prev {
+    color: black;
+}
+
+
+
+
+
+#black_gradient {
+    width: 100%;
+    height: 200px;
+    background: rgb(0, 0, 0);
+    background: linear-gradient(360deg, rgba(80, 80, 80) 0%, rgba(255, 255, 255, 0) 100%);
+}
+
+#Project_cover img {
+    width: 100%;
+
+    height: 900px;
+
+}
+
+
+#Project_cover_title {
+    bottom: 10%;
+    right: 6%;
+}
+
+#Project_cover_title_macro {
+    top: 20%;
+    left: 6%
+}
+
+#Project_cover_title_asus {
+    top: 15%;
+    right: 6%
+}

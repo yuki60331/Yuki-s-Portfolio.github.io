@@ -1,0 +1,139 @@
+/* -------------------------------------------------------- */
+.montserrat_300 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+}
+
+.montserrat_400 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+
+.montserrat_500 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+
+.montserrat_600 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+
+.montserrat_700 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+
+.montserrat_800 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+}
+
+/* -------------------------------------------------------- */
+
+.worksans_300 {
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 400;
+}
+
+.worksans_400 {
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 400;
+}
+
+.worksans_500 {
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 500;
+}
+
+.worksans_600 {
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 600;
+}
+
+.worksans_700 {
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 700;
+}
+
+/* -------------------------------------------------------- */
+
+.f08 {
+    font-size: 0.8em;
+}
+
+.f09 {
+    font-size: 0.9em;
+}
+
+.f1 {
+    font-size: 1em;
+}
+
+.f12 {
+    font-size: 1.2em;
+}
+
+.f15 {
+    font-size: 1.5em;
+}
+
+.f2 {
+    font-size: 2em;
+}
+
+.f22 {
+    font-size: 2.2em;
+}
+
+.f35 {
+    font-size: 3.5em;
+}
+
+/* -------------------------------------------------------- */
+
+.lightgreen {
+    color: #CCFF00;
+}
+
+.kooba_orange {
+    color: #EE8449;
+}
+
+.kooba_blue {
+    color: #5EAEDA;
+}
+
+.gray {
+    color: rgb(100, 100, 100)
+}
+
+/* -------------------------------------------------------- */
+
+.fls_01 {
+    letter-spacing: 0.1em
+}
+
+/* -------------------------------------------------------- */
+
+
+html,
+body {
+    position: relative;
+    height: 100%;
+}
+
+.w500_h600 {
+    width: 500px;
+    height: 600px;
+}
+
+.h320 {
+    width: 100%;
+    height: 320px;
+}
+
+
+.t_shadow {
+    text-shadow: rgb(150, 150, 150) 0.1em 0.1em 0.2em
+}
